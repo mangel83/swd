@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    overscroll-behavior-y: contain;
+ }

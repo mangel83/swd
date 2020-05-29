@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590727436949,
+  "timestamp": 1590757406097,
   "index": "/swd/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "/swd/polyfills-es5.9e286f6d9247438cbb02.js",
         "/swd/runtime-es2015.620b3851573e31c11cd2.js",
         "/swd/runtime-es5.620b3851573e31c11cd2.js",
-        "/swd/styles.3ff695c00d717f2d2a11.css"
+        "/swd/styles.9ad4774580e53ff92e15.css"
       ],
       "patterns": [
         "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*",
@@ -47,7 +47,12 @@
         "/swd/assets/img/Obi-Wan-Kenobi.jpg",
         "/swd/assets/img/Owen-Lars.jpg",
         "/swd/assets/img/R2-D2.jpg",
-        "/swd/assets/img/R5-D4.jpg"
+        "/swd/assets/img/R5-D4.jpg",
+        "/swd/assets/ios/apple-launch-1125x2436.png",
+        "/swd/assets/ios/apple-launch-1242x2208.png",
+        "/swd/assets/ios/apple-launch-1242x2688.png",
+        "/swd/assets/ios/apple-launch-750x1334.png",
+        "/swd/assets/ios/apple-launch-828x1792.png"
       ],
       "patterns": []
     }
@@ -73,8 +78,13 @@
     "/swd/assets/img/Owen-Lars.jpg": "02ce41f012bbe5e8f4296e23dda45bd494106d50",
     "/swd/assets/img/R2-D2.jpg": "43fe5572dca0ea4d303d77860cde1baa96e2395a",
     "/swd/assets/img/R5-D4.jpg": "759c10125f98d7a18654cce9d69fecd839ead633",
-    "/swd/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/swd/index.html": "246540c93efa8d439c72b4ab70ac1314ee6539d3",
+    "/swd/assets/ios/apple-launch-1125x2436.png": "213e726bc201ea1e37aae424e9e331ba3b25c08e",
+    "/swd/assets/ios/apple-launch-1242x2208.png": "563cb900ff3ed0a8b53d2bdcfb529735f11bfb2e",
+    "/swd/assets/ios/apple-launch-1242x2688.png": "b96febba00e29c140fcf03e6f1455a7c5ae3864f",
+    "/swd/assets/ios/apple-launch-750x1334.png": "8fbc8e0bdb7fc959da87f9fc422671addae249da",
+    "/swd/assets/ios/apple-launch-828x1792.png": "c3b3b1bb8ee74954ccfc858138397767688a2d04",
+    "/swd/favicon.ico": "75f98a5d99b1e7a03036b54d6d692f0efa4312bc",
+    "/swd/index.html": "0e7db36c7635d758c6d84c5aafb59ab68c9b3bcd",
     "/swd/main-es2015.088543c88acfed071d37.js": "d32bf6a4b219539380635831412618b544426874",
     "/swd/main-es5.088543c88acfed071d37.js": "37331d15b5333fd6a2cc6f1acb81c9ced02e817d",
     "/swd/manifest.webmanifest": "197e7297fd75efaa2dd21f453fd2c60509fb2f38",
@@ -82,7 +92,7 @@
     "/swd/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
     "/swd/runtime-es2015.620b3851573e31c11cd2.js": "8b0823afdedf5c244ba39cce6ee59c6f616647e3",
     "/swd/runtime-es5.620b3851573e31c11cd2.js": "8b0823afdedf5c244ba39cce6ee59c6f616647e3",
-    "/swd/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/swd/styles.9ad4774580e53ff92e15.css": "6fa588972a4395ef62064cee9aecec9a503b3db0"
   },
   "navigationUrls": [
     {
