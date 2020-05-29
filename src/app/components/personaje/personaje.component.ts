@@ -25,7 +25,12 @@ export class PersonajeComponent implements OnInit {
       if(!personaje) {
         return this.router.navigateByUrl('/');
       } 
+      personaje.name = this.getNombreImgFormateado(personaje.name);
       this.personaje = personaje;
     });
+  }
+
+  getNombreImgFormateado(nombre:string) {
+    return nombre.replace(/ /g, '-');
   }
 }
