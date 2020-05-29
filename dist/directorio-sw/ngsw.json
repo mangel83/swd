@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590725084316,
+  "index": "/swd/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/swd/favicon.ico",
+        "/swd/index.html",
+        "/swd/main-es2015.fd524ba05a84e01e288f.js",
+        "/swd/main-es5.fd524ba05a84e01e288f.js",
+        "/swd/manifest.webmanifest",
+        "/swd/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/swd/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/swd/runtime-es2015.1eba213af0b233498d9d.js",
+        "/swd/runtime-es5.1eba213af0b233498d9d.js",
+        "/swd/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": [
+        "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/.*",
+        "https:\\/\\/swapi\\.py4e\\.com\\/api\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/swd/assets/css/animate.css",
+        "/swd/assets/icons/icon-128x128.png",
+        "/swd/assets/icons/icon-144x144.png",
+        "/swd/assets/icons/icon-152x152.png",
+        "/swd/assets/icons/icon-192x192.png",
+        "/swd/assets/icons/icon-384x384.png",
+        "/swd/assets/icons/icon-512x512.png",
+        "/swd/assets/icons/icon-72x72.png",
+        "/swd/assets/icons/icon-96x96.png",
+        "/swd/assets/img/Beru-Whitesun-lars.jpg",
+        "/swd/assets/img/Biggs-Darklighter.jpg",
+        "/swd/assets/img/C-3PO.jpg",
+        "/swd/assets/img/Darth-Vader.jpg",
+        "/swd/assets/img/Leia-Organa.jpg",
+        "/swd/assets/img/Luke-Skywalker.jpg",
+        "/swd/assets/img/Obi-Wan-Kenobi.jpg",
+        "/swd/assets/img/Owen-Lars.jpg",
+        "/swd/assets/img/R2-D2.jpg",
+        "/swd/assets/img/R5-D4.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/swd/assets/css/animate.css": "08a53ceb09841dfdc6975de1c58a51ca1c8f0765",
+    "/swd/assets/icons/icon-128x128.png": "2463509c959995c9d1548883a765c87088be0976",
+    "/swd/assets/icons/icon-144x144.png": "99d61883ce318380de2ad7cd68c716cfd05edbef",
+    "/swd/assets/icons/icon-152x152.png": "c5bc8635636dc5e17e8f89a5b86e04dbca866d59",
+    "/swd/assets/icons/icon-192x192.png": "cb56a6cb2afd66f3807ab691c61ce094a2b448b1",
+    "/swd/assets/icons/icon-384x384.png": "092e2275691c5da9dfe854c5a30cb39d29a46ad1",
+    "/swd/assets/icons/icon-512x512.png": "deb840b89699e31b5949d1e17c084d517f5f6249",
+    "/swd/assets/icons/icon-72x72.png": "421de9bf23e29602a283458f23919bda95f6dc1c",
+    "/swd/assets/icons/icon-96x96.png": "215e1fd778d7bbfb515751ea9a79ef440eaef943",
+    "/swd/assets/img/Beru-Whitesun-lars.jpg": "483e91920e90314a04eb7975d01d27b0b62666f6",
+    "/swd/assets/img/Biggs-Darklighter.jpg": "358b553ac3572010a5614cdbee8790a6ee2df69d",
+    "/swd/assets/img/C-3PO.jpg": "ab7a7ca8c15fd14cf64c4d78ccddb5a8ba46998a",
+    "/swd/assets/img/Darth-Vader.jpg": "29037a7989ef2c8a57437d9ccc36563e6fc7ff85",
+    "/swd/assets/img/Leia-Organa.jpg": "e4c5bd046985555c470499b9c48a52a9af03cd7d",
+    "/swd/assets/img/Luke-Skywalker.jpg": "81ab12f381683dc371053b0043937af4e2967735",
+    "/swd/assets/img/Obi-Wan-Kenobi.jpg": "7b6aae0ee905147d0ff9e066a7cc9aadc69d4c34",
+    "/swd/assets/img/Owen-Lars.jpg": "02ce41f012bbe5e8f4296e23dda45bd494106d50",
+    "/swd/assets/img/R2-D2.jpg": "43fe5572dca0ea4d303d77860cde1baa96e2395a",
+    "/swd/assets/img/R5-D4.jpg": "759c10125f98d7a18654cce9d69fecd839ead633",
+    "/swd/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/swd/index.html": "392b49bfc24a9acd7327e9ae51b714d6b483ac9f",
+    "/swd/main-es2015.fd524ba05a84e01e288f.js": "c6e5b96f1200fa695e8b1e669745bf4f28e682e3",
+    "/swd/main-es5.fd524ba05a84e01e288f.js": "347412e974e209d9a5003bb3ad2522973a54909a",
+    "/swd/manifest.webmanifest": "8dd9716638a5aae540ab18c701b35fa7170fdf96",
+    "/swd/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/swd/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/swd/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/swd/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/swd/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
